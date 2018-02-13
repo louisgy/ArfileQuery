@@ -1,33 +1,10 @@
-HW4-Louis.cpp
-
-Type
-Text
-Size
-29 KB (29,912 bytes)
-Storage used
-29 KB (29,912 bytes)
-Location
-HW4 Doc
-Owner
-me
-Modified
-Oct 17, 2016 by me
-Opened
-6:19 PM by me
-Created
-Oct 17, 2016 with Google Drive Web
-Add a description
-Viewers can download
-//  main.cpp
-//  HW4-week6
-//  Created by Georgy Louis on 10/2/16.
-//  Copyright © 2016 Georgy Louis. All rights reserved.
-//
 
 /*
 This program read records from a file and offer users
 The option of query the database.
 These records are about artwork
+
+Author : Georgy Louis
 */
 
 #include "stdafx.h"
